@@ -7,4 +7,4 @@
 - ⚡ Fun fact: VideoGames
 
 ## Skills:
-![Python](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelCololr=101010)</br>
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelCololr=101010)</br>
