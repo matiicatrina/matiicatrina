@@ -6,3 +6,7 @@
 - 😄 Pronouns: Mati
 - ⚡ Fun fact: VideoGames
 
+## Skills:
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
+
