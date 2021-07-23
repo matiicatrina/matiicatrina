@@ -7,6 +7,6 @@
 - ⚡ Fun fact: VideoGames
 
 ## Skills:
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)</br>
+https://img.shields.io/badge/Python-blue?style=for-the-badge</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascriptd&logoColor=white&labelCololr=101010)</br>
 ![SQL](https://img.shields.io/badge/Sql-black?style=for-the-badge&logo=sql&logoColor=white&labelCololr=101010)</br>
