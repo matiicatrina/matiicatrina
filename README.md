@@ -1,4 +1,4 @@
-### Hi my name is Matias Catrina im freelancer studient, so let me tell something about myself 👋
+### Hi my name is Matias Catrina, so let me tell something about myself 👋
 
 - 🔭 I’m currently working on Logicalis like Cloud Architect. 
 - 🌱 Focal Point of AWS.
