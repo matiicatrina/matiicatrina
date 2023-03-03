@@ -1,7 +1,7 @@
 ### Hi my name is Matias Catrina im freelancer studient, so let me tell something about myself 👋
 
-- 🔭 I’m currently working on Telecom SA
-- 🌱 I’m currently learning Python language, and NodeJs.
+- 🔭 I’m currently working on Logicalis like Cloud Architect. 
+- 🌱 Focal Point of AWS.
 - 📫 How to reach me: https://www.linkedin.com/in/mcatrina/
 - 😄 Pronouns: Mati
 - ⚡ Fun fact: VideoGames
